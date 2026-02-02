@@ -18,3 +18,7 @@ It suggests similar books by comparing content features.
 ## Learning Outcome
 - Understanding recommendation systems
 - Learning data filtering and similarity concepts
+
+ ## Note: A small sample dataset is used in this repository.
+The full dataset was large and not uploaded due to GitHub size limits.
+
